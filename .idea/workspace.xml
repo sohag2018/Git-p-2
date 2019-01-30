@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07fb7420-2b88-401e-b36f-ef3dca33e8a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="07fb7420-2b88-401e-b36f-ef3dca33e8a9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Manir/target/" />
@@ -79,14 +77,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="GitPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Lobid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Lobid" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GitPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -110,6 +117,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +150,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="306" y="25" width="1176" height="788" extended-state="0" />
+    <frame x="305" y="24" width="1176" height="788" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33333334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
